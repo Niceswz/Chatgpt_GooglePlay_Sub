@@ -1,5 +1,9 @@
 # GPT Plus 订阅转移原理与操作指南
 
+> 📢 **更多 AI 免费资源 & 最新玩法，欢迎加入 Telegram 频道：[👉 @Free_to_AI](https://t.me/Free_to_AI)**
+
+---
+
 ## 一、核心原理
 
 ### 订阅架构
@@ -503,3 +507,21 @@ if token_record:
 | **节奏控制** | 每个操作间隔 30-60 秒，避免触发自动化检测 |
 | **token 有效期** | 72 小时，建议按需生产而非大量囤积 |
 | **GPT 账号 token 获取** | 需要有目标 GPT 账号的 Bearer Token 来获取 account_id |
+
+---
+
+## 八、关注与交流
+
+如果本指南对你有帮助，欢迎关注我们的 Telegram 频道，获取更多：
+
+- 🆓 **AI 工具免费资源**
+- 🔧 **最新技巧 & 操作指南更新**
+- 💬 **社群交流 & 答疑**
+
+<div align="center">
+
+[![Telegram 频道](https://img.shields.io/badge/Telegram-Free__to__AI-blue?logo=telegram&style=for-the-badge)](https://t.me/Free_to_AI)
+
+**👉 点击加入：https://t.me/Free_to_AI**
+
+</div>
